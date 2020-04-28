@@ -19,3 +19,7 @@ To export a graph showing historical data between 1860 and 2015:
 ```
 $ python average_earth_land_temperature.py export
 ```
+
+## License
+
+AverageEarthLandTemperature is released under the MIT License. See LICENSE for details.
